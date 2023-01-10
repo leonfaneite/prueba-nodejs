@@ -10,7 +10,7 @@
   "license": "GPL-2.0",
   "dependencies": {
     "balanced-match": "^1.0.0",
-    "body-parser": "~1.12.0",
+    "body-parser": "~1.20.1",
     "express": "^4.0.0",
     "mongodb": "^3.3.0-beta2",
     "mongoose": "^5.6.9",
